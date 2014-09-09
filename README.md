@@ -7,7 +7,7 @@ Follow live events covered by TheVerge through your Hubot.
 Dependencies
 -------
 
-Add to your `package.json` the following packages
+Add to your `package.json` the following packages under the dependencies section
 
 `"request": "2.40.0"`
 
