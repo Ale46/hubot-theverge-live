@@ -32,7 +32,7 @@ Commands
 License
 -------
 
-Hubot Dogeme is licensed under the [GPL][gpl] license.
+Hubot The Verge Live is licensed under the [GPL][gpl] license.
 
 
 
