@@ -1,6 +1,7 @@
 
 Hubot The Verge Live
 ============
+[![gittip](https://img.shields.io/gittip/Ale46.svg)](https://www.gratipay.com/Ale46/)
 
 Follow live events covered by TheVerge through your Hubot.
 
